@@ -15,7 +15,7 @@ public class TestController {
 
     @RequestMapping(value = "test", method = RequestMethod.GET)
     public String Test(){
-        return "我是第3333版的jenkins";
+        return "我是第4444版的jenkins";
     }
 }
 
